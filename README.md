@@ -35,13 +35,13 @@ Tenho experiência com **C# (.NET)**, **Java**, **Python** e **MySQL**, aplicand
 
 ## 📦 Projetos em destaque
 
-### 🚚 [Delivery-DDD](https://github.com/kauanzin-FuTDev/Delivery-DDD)
+### ♟️ [Chess-Api](https://github.com/KauanRZin/chess-engine-api))](https://github.com/KauanRZin/chess-engine-api)
 
-API de pedidos com **C# (.NET 8)** e **Entity Framework Core**, seguindo **DDD** e **Clean Architecture**.
+API de um jogo de xadrez com **C# (.NET 8)** , seguindo **DDD** e **Clean Architecture**.
 
-### 🧾 [Sistema-Gerenciamento](https://github.com/kauanzin-FuTDev/Sistema-Gerenciamento)
+### 🧾 [Sistema-De-Autenticação](https://github.com/KauanRZin/auth-service)
 
-Backend em **Java + Spring Boot**, com autenticação JWT e integração MySQL.
+Backend em **C# + EF**, com autenticação JWT e MongoDb.
 
 ---
 
