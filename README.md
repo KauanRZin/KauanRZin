@@ -35,7 +35,7 @@ Tenho experiência com **C# (.NET)**, **Java**, **Python** e **MySQL**, aplicand
 
 ## 📦 Projetos em destaque
 
-### ♟️ [Chess-Api](https://github.com/KauanRZin/chess-engine-api))](https://github.com/KauanRZin/chess-engine-api)
+### ♟️ [Chess-Api](https://github.com/KauanRZin/chess-engine-api)
 
 API de um jogo de xadrez com **C# (.NET 8)** , seguindo **DDD** e **Clean Architecture**.
 
