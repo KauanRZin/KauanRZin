@@ -49,10 +49,10 @@ Backend em **C# + EF**, com autenticação JWT e MongoDb.
 
 <div align="center">
 
-![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanzin-FuTDev\&show_icons=true\&theme=tokyonight\&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin-FuTDev\&layout=compact\&theme=tokyonight)
+![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanRZin\&show_icons=true\&theme=tokyonight\&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRZin\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kauanzin-FuTDev\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KauanRZin\&theme=tokyonight\&hide_border=true)
 
 </div>
 
@@ -64,7 +64,7 @@ Backend em **C# + EF**, com autenticação JWT e MongoDb.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kauanzin/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kauan.kr1001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauanzin-FuTDev)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KauanRZin)
 
 </div>
 
@@ -74,7 +74,7 @@ Backend em **C# + EF**, com autenticação JWT e MongoDb.
 
 <div align="center">
 
-![Kauan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kauanzin-FuTDev\&theme=tokyo-night\&hide_border=true)
+![Kauan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KauanRZin\&theme=tokyo-night\&hide_border=true)
 
 </div>
 
