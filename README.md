@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-
+#### Portifólio 👉https://kauanrzin.github.io/KauanRZinPortfolio/
 Sou um desenvolvedor focado em criar soluções eficientes e escaláveis.
 Tenho experiência com **C# (.NET)**, **Java**, **Python** e **MySQL**, aplicando **DDD**, **Clean Architecture** e princípios **SOLID** nos meus projetos.
 
