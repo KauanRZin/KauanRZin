@@ -51,9 +51,7 @@ Backend em **C# + EF**, com autenticação JWT e MongoDb.
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanRZin\&show_icons=true\&theme=tokyonight\&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRZin\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KauanRZin\&theme=tokyonight\&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=KauanRZin&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
